@@ -1,4 +1,3 @@
-<meta name="ВТБ Банк" content="1170035141, affiliate-data=myAffiliateData, app-argument=myURL">
 # Welcome to Mikalai Selmanovich GitHub Pages
 
 Это моя пробная страница
