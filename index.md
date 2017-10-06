@@ -1,35 +1,23 @@
 # Инспектор
 
-Инспектор бот - бот для проверки вашего автомобиля на наличие штрафов с камер фотофиксации с сайта [МВД](http://mvd.gov.by/main.aspx?guid=15791)
+Инспектор - бот для проверки вашего автомобиля на наличие штрафов с камер фотофиксации с сайта [Министерства внутренних дел РБ](http://mvd.gov.by/main.aspx?guid=15791)
 
 ### Доступен в Viber и Telegram 24/7
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Для добавления в мессенджер Telegram - [перейдите по ссылке](https://t.me/GAIby_bot), или введите в поиске @GAIby_bot.
+
+Для добавления в мессенджер Viber - [перейдите по ссылке](https://www.viber.com/inspector).
+
+### Как работает бот?
+
+Выберите команду "Добавить автомобиль" в меню бота, пришлите информацию о своем автомобиле (ФИО владельца и номер техпаспорта), следуя запросам, после чего произойдет первичная проверка автомобиля на наличие штрафов.
+
+После добавления автомобиля бот раз в сутки будет проверять его на наличие штрафов в базе МВД, в случае, если штраф есть - вам будет отправлено сообщение с информацией о штрафе.
+
+Количество автомобилей неограничено!
 
 ```markdown
-Syntax highlighted code block
+# Вы также можете обновить информацию о штрафах вручную, выбрав команду "Мои автомобили" -> "Обновить"
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Любой из добавленных вами автомобилей вы можете также удалить в любое время.
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Selmanovich/selmanovich.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
