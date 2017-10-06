@@ -2,7 +2,7 @@
 
 Инспектор бот - бот для проверки вашего автомобиля на наличие штрафов с камер фотофиксации с сайта [МВД](http://mvd.gov.by/main.aspx?guid=15791)
 
-### Markdown
+### Доступен в Viber и Telegram 24/7
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
