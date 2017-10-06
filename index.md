@@ -1,4 +1,4 @@
-# Welcome to Mikalai Selmanovich GitHub Pages
+# Инспектор
 
 Это моя пробная страница
 
